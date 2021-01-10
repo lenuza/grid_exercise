@@ -119,22 +119,22 @@ img {
 }
 
 .parallax-effect-1 {
-    background-image: url('./images/kai-gradert-Jbe2bX-fTmg-unsplash_gray.jpg');
+    background-image: url('https://raw.githubusercontent.com/lenuza/grid_exercise/main/images/kai-gradert-Jbe2bX-fTmg-unsplash_gray.jpg');
     height: 30em;
 }
 
 .parallax-effect-2 {
-    background-image: url('./images/karsten-wurth-ImeGmbUNarA-unsplash_gray.jpg');
+    background-image: url('https://raw.githubusercontent.com/lenuza/grid_exercise/main/images/karsten-wurth-ImeGmbUNarA-unsplash_gray.jpg');
     height: 50em;
 }
 
 .parallax-effect-3 {
-    background-image: url('./images/john-towner-3Kv48NS4WUU-unsplash_gray.jpg');
+    background-image: url('https://raw.githubusercontent.com/lenuza/grid_exercise/main/images/john-towner-3Kv48NS4WUU-unsplash_gray.jpg');
     height: 50em;
 }
 
 .parallax-effect-4 {
-    background-image: url('./images/dominik-schroder-FIKD9t5_5zQ-unsplash_gray.jpg');
+    background-image: url('https://raw.githubusercontent.com/lenuza/grid_exercise/main/images/dominik-schroder-FIKD9t5_5zQ-unsplash_gray.jpg');
     background-position: bottom center;
     height: 40em;
 }
